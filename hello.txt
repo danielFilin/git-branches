@@ -6,3 +6,4 @@ line 5 is on and even more new text
 line 5 is on
 line 6
 another line
+feature 1 add line
