@@ -3,3 +3,4 @@ another line of text
 line 3 and more!
 hello you buddies
 line 5 is on
+line 6
